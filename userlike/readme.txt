@@ -2,7 +2,7 @@
 Contributors: zakx, userlike
 Tags: userlike, live chat, messaging, ai support, ai chatbots
 Requires at least: 3.3
-Tested up to: 6.7.0
+Tested up to: 6.8
 Stable tag: 2.3
 
 Free live chat plugin to chat with the visitors of your website. Integrate a beautiful and fully customizable chat box. Hosted in Europe.
