@@ -1,36 +1,36 @@
 === Userlike – WordPress Live Chat plugin ===
 Contributors: zakx, userlike
-Tags: userlike, live chat, messaging, ai support, ai chatbots
+Tags: userlike, live chat, messaging, ai support, ai chatbots, lime connect
 Requires at least: 3.3
-Tested up to: 6.8
-Stable tag: 2.3
+Tested up to: 6.8.2
+Stable tag: 2.4
 
 Free live chat plugin to chat with the visitors of your website. Integrate a beautiful and fully customizable chat box. Hosted in Europe.
 
 == Description ==
 
-[Userlike](https://www.userlike.com/en/) is the leading all-in-one software for AI-based support automation, WhatsApp marketing and customer messaging in Germany. It offers a live chat plugin for WordPress that allows you to connect with your customers directly via website chat and their favorite messaging apps such as WhatsApp, Facebook, Instagram, Telegram, Email, Threema and SMS.
+[Lime Connect](https://connect.lime-technologies.com/en/) is the leading all-in-one software for AI-based support automation, WhatsApp marketing and customer messaging in Germany. It offers a live chat plugin for WordPress that allows you to connect with your customers directly via website chat and their favorite messaging apps such as WhatsApp, Facebook, Instagram, Telegram, Email, Threema and SMS.
 
 The plugin is free, easy to implement and lets you chat with your website visitors within minutes.
 
 = All-in-one Messaging =
-Userlike is an all-in-one messaging solution that supports companies to stay close with their customers along their entire customer journey.
+Lime Connect is an all-in-one messaging solution that supports companies to stay close with their customers along their entire customer journey.
 
-Userlike comes with a modern website messenger for generating leads and following up with customers. Just like popular messaging apps, Userlike's chat tool allows conversations to take place in real time or pick up later.
+Lime Connect comes with a modern website messenger for generating leads and following up with customers. Just like popular messaging apps, Lime Connect's chat tool allows conversations to take place in real time or pick up later.
 
-To reach your customers outside of your website, Userlike offers integrations with popular messaging apps such as WhatsApp, Facebook, Instagram, Telegram, Email, Threema and SMS.
+To reach your customers outside of your website, Lime Connect offers integrations with popular messaging apps such as WhatsApp, Facebook, Instagram, Telegram, Email, Threema and SMS.
 
-With Userlike’s AI Automation Hub you can automate your customer service processes, reduce costs and empower your customers to find answers 24/7. Create AI-powered chatbots, smart FAQ pages and interactive contact form suggestions connected to a central knowledge base that uses machine learning to improve its accuracy over time.
+With Lime Connect’s AI Automation Hub you can automate your customer service processes, reduce costs and empower your customers to find answers 24/7. Create AI-powered chatbots, smart FAQ pages and interactive contact form suggestions connected to a central knowledge base that uses machine learning to improve its accuracy over time.
 
-You can also connect external chatbot providers to Userlike via the chatbot API.
+You can also connect external chatbot providers to Lime Connect via the chatbot API.
 
-= Why Userlike? =
+= Why Lime Connect? =
 
-Userlike is the leading European, GDPR-compliant chat provider. All data is securely stored on servers within Germany.
+Lime Connect is the leading European, GDPR-compliant chat provider. All data is securely stored on servers within Germany.
 
-Userlike is suitable for any company size and industry as it scales with your needs and business goals. Small and medium-sized businesses as well as large enterprises like Toyota and Nivea already rely on Userlike.
+Lime Connect is suitable for any company size and industry as it scales with your needs and business goals. Small and medium-sized businesses as well as large enterprises like Toyota and Nivea already rely on Lime Connect.
 
-Userlike is a great solution if you are looking for a chat provider that offers website chat, mobile messaging and AI automation.
+Lime Connect is a great solution if you are looking for a chat provider that offers website chat, mobile messaging and AI automation.
 
 = Features =
 
@@ -43,7 +43,7 @@ Userlike is a great solution if you are looking for a chat provider that offers 
 * Live translation to chat seamlessly with international customers
 * Browser-based audio and video calls including screen sharing for complex inquiries or product demonstrations
 * AI Automation Hub that lets you create AI-chatbots, smart FAQs and contact form suggestions to automate your customer service
-* Chatbot API to connect existing chatbots to Userlike
+* Chatbot API to connect existing chatbots to Lime Connect
 * Analytics to measure live chat performance and service quality
 * Server and hosting in Germany
 * GDPR-compliant, including dedicated data privacy features
@@ -52,19 +52,19 @@ Userlike is a great solution if you are looking for a chat provider that offers 
 
 = Pricing =
 
-The Userlike chat plugin for WordPress is free. When you sign up, you can test the premium plan „Team“ for 14 days for free. After the trial, you automatically switch back to the Free plan. This gives you Userlike’s Website Messenger including unlimited conversation and contacts and all core features for customer communication in a small team.
+The Lime Connect chat plugin for WordPress is free. When you sign up, you can test the premium plan „Team“ for 14 days for free. After the trial, you automatically switch back to the Free plan. This gives you Lime Connect’s Website Messenger including unlimited conversation and contacts and all core features for customer communication in a small team.
 Paid plans are available from $90 per month, including access to messaging apps such WhatsApp, 4+ chat agent seats, 4 widgets and powerful service features for professional chat support in a team.
 
 = Case studies =
 
-Learn more about how [Hermes](https://www.userlike.com/en/blog/hermes-conversational-commerce-en), [Toyota](https://www.userlike.com/en/blog/whatsapp-case-study-toyota) and [Titus](https://www.youtube.com/watch?v=jPup9vEqaww&list=PLCDyk-Wom8jyjOi9RiagBMPo66_HH4hXT&index=1) are working with Userlike to generate more leads, reduce service costs and build long-term customer relationships.
+Learn more about how [Hermes](https://connect.lime-technologies.com/en/blog/hermes-conversational-commerce-en/), [Toyota](https://connect.lime-technologies.com/en/blog/whatsapp-case-study-toyota/) and [Titus](https://www.youtube.com/watch?v=jPup9vEqaww&list=PLCDyk-Wom8jyjOi9RiagBMPo66_HH4hXT&index=1) are working with Lime Connect to generate more leads, reduce service costs and build long-term customer relationships.
 
 == Frequently Asked Questions ==
 
-= With which browsers is Userlike compatible? =
-The Userlike Dashboard is HTML5 compatible and uses the latest web technologies.
+= With which browsers is Lime Connect compatible? =
+The Lime Connect Dashboard is HTML5 compatible and uses the latest web technologies.
 
-Userlike supports the following browsers:
+Lime Connect supports the following browsers:
 
 The last two versions of Safari
 The last two versions of Safari for iOS
@@ -73,31 +73,31 @@ The last six versions of Firefox
 The last six versions of Chrome
 
 = What happens when I’m not online? =
-When you’re not online, you can decide between a set of behaviors for Userlike’s WordPress live chat plugin. One is to display the website widget in offline mode. Messages from your contact will still land in Userlike’s Message Center and you can answer them as soon as you are available again. Your contacts will be notified via email to pick up the conversation on your website chat. You can also choose to hide the chat plugin outside your service times.
+When you’re not online, you can decide between a set of behaviors for Lime Connect’s WordPress live chat plugin. One is to display the website widget in offline mode. Messages from your contact will still land in Lime Connect’s Message Center and you can answer them as soon as you are available again. Your contacts will be notified via email to pick up the conversation on your website chat. You can also choose to hide the chat plugin outside your service times.
 
 = Do I need a credit card to sign up? =
 No, you don’t need to enter any billing info to start your trial. We only ask for your billing info when you decide to upgrade to one of our paid products. You can pay with credit card, or bank transfer / PayPal for yearly subscriptions.
 
 = What will happen after the trial? =
-During the trial you have access to our premium plan Team. After the trial, your account automatically switches to our free product. There are no charges or hidden fees so you can see if Userlike is right for you without any strings attached. With our Free plan you can have unlimited chats with your customers. If you need more features you can always upgrade your account to a premium plan during or after the trial.
+During the trial you have access to our premium plan Team. After the trial, your account automatically switches to our free product. There are no charges or hidden fees so you can see if Lime Connect is right for you without any strings attached. With our Free plan you can have unlimited chats with your customers. If you need more features you can always upgrade your account to a premium plan during or after the trial.
 
 = Do you offer chatbots? =
-Yes! You can create AI-based chatbots directly in Userlike or integrate your own chatbot via the chatbot API.
+Yes! You can create AI-based chatbots directly in Lime Connect or integrate your own chatbot via the chatbot API.
 
-= Can I use Userlike on my mobile phone? =
-For your customers, Userlike also works well on mobile devices. For chat agents operating the chat plugin, we recommend using Userlike on your desktop.
+= Can I use Lime Connect on my mobile phone? =
+For your customers, Lime Connect also works well on mobile devices. For chat agents operating the chat plugin, we recommend using Lime Connect on your desktop.
 
 
 == Installation ==
 
 1. Log in to your WordPress admin, then click on "Add New" under the "Plugins" menu.
-2. Search for the Userlike plugin, install it, and activate it.
-3. Go to "Settings" and paste in your Userlike Widget Secret. You'll find your Widget Secret in the Userlike Dashboard under "Config" – "Widgets" in the "Install" tab, then click on "[Credentials for Applications](https://www.userlike.com/en/dashboard/config/chat_widget/edit/default#install-credentials)".
+2. Search for the Lime Connect plugin, install it, and activate it.
+3. Go to "Settings" and paste in your Lime Connect Widget Secret. You'll find your Widget Secret in the [Lime Connect Dashboard](https://app.userlike.com/#/settings/channel/web/website) – in the "Install" tab click on "Javascript widget code".
 4. Remember to save your settings...
-5. Congratulations! The Userlike Chat Widget is now visible on your WordPress site and you can start chatting! 🚀
+5. Congratulations! The Lime Connect Chat Widget is now visible on your WordPress site and you can start chatting! 🚀
 
-Note: You will need a Userlike account:
-Create one for free [here](https://www.userlike.com/).
+Note: You will need a Lime Connect account:
+Create one for free [here](https://connect.lime-technologies.com/).
 
 [youtube https://www.youtube.com/watch?v=AIlGh5qkbDA]
 
@@ -109,10 +109,13 @@ Create one for free [here](https://www.userlike.com/).
 4. Your shared messaging inbox
 5. Easily switch from video to chat
 6. Built and hosted in Germany
-7. Userlikes AI Automation Hub
+7. Lime Connects AI Automation Hub
 8. Embrace the future of AI customer support
 
 == Changelog ==
+
+= 2.4 =
+* Rebranding Userlike -> Lime Connect: updated texts and graphics
 
 = 2.3 =
 * Fix potential XSS within admin page
@@ -161,7 +164,7 @@ Create one for free [here](https://www.userlike.com/).
 * Changed API host
 
 = 1.2 =
-* Updated for new Userlike API (you'll only need your secret now)
+* Updated for new Lime Connect API (you'll only need your secret now)
 * Removed dependency on cURL support
 
 = 1.1 =
@@ -172,7 +175,7 @@ Create one for free [here](https://www.userlike.com/).
 
 == Upgrade Notice ==
 = 1.3 =
-This version uses the new Userlike API host, enabling faster changes to your chat widget. Update recommended.
+This version uses the new Lime Connect API host, enabling faster changes to your chat widget. Update recommended.
 
 = 1.2 =
-This version uses the new Userlike API enabling you to use the new Userlike features. Update recommended.
+This version uses the new Lime Connect API enabling you to use the new Lime Connect features. Update recommended.
