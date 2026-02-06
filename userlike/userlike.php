@@ -3,7 +3,7 @@
 Plugin Name: Userlike
 Plugin URI: https://www.userlike.com
 Description: Userlike Live Chat integration for Wordpress
-Version: 2.4
+Version: 2.5
 Author: David Voswinkel <david.voswinkel@userlike.com>
 Author URI: https://www.userlike.com
 License: GPL2
