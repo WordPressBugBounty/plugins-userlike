@@ -2,8 +2,8 @@
 Contributors: zakx, userlike
 Tags: live chat, messaging, ai support, ai chatbots, ai agents
 Requires at least: 3.3
-Tested up to: 6.9.1
-Stable tag: 2.5
+Tested up to: 6.9.4
+Stable tag: 2.6
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -25,6 +25,8 @@ Connect AI combines AI agents that operate autonomously, an intelligent co-pilot
 AI agents understand complex customer issues, make independent decisions, and execute actions in connected systems, such as CRMs and shop systems, from order inquiries to complaint processes. Up to 70% of all inquiries can be processed completely automatically.
 
 At the same time, the co-pilot helps employees work faster and more efficiently by summarizing contexts, suggesting answers, and providing relevant information.
+
+To automate processes, you can use our visual no-code Workflow Builder, that lets you design structured end-to-end processes by defining triggers, conditions, and actions via drag and drop. From routing and escalations to cross-system updates and proactive notifications, Workflows ensure that every step runs reliably and transparently in the background.
 
 You can also connect external chatbot providers to Lime Connect via the chatbot API.
 
@@ -108,15 +110,23 @@ Create one for free [here](https://connect.lime-technologies.com/).
 
 == Screenshots ==
 
-1. Bring modern messaging to your website
-2. Support customers on their preferred channel
-3. Your shared messaging inbox
-4. Easily switch from video to chat
-5. Built and hosted in Germany
-6. Embrace the future of AI customer support
-7. Mobile app: stay connected on the go
+1. Transform your customer experience with chat and AI
+2. Connect AI - the AI suite that sets new standards
+3. AI agents - scale your service with ease
+4. Copilot - boost your service teams
+5. Workflows - automate time-consuming processes
+6. Whatsapp marketing - turn messages into revenue
+7. Bring modern messaging to your website
+8. Support customers on their preferred channel
+9. Your shared messaging inbox
+10. Easily switch from video to chat
+11. Built and hosted in Germany
+12. Mobile app: stay connected on the go
 
 == Changelog ==
+
+= 2.6 =
+* Connect AI Workflows: updated texts and graphics
 
 = 2.5 =
 * Connect AI launch: updated texts and graphics
