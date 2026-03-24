@@ -3,7 +3,7 @@ Contributors: zakx, userlike
 Tags: live chat, messaging, ai support, ai chatbots, ai agents
 Requires at least: 3.3
 Tested up to: 6.9.4
-Stable tag: 2.6
+Stable tag: 2.7
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -124,6 +124,9 @@ Create one for free [here](https://connect.lime-technologies.com/).
 12. Mobile app: stay connected on the go
 
 == Changelog ==
+
+= 2.7 =
+* Fix remainders from Userlike -> Lime Connect rebranding inside the plugin
 
 = 2.6 =
 * Connect AI Workflows: updated texts and graphics

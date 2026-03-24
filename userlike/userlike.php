@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Userlike
-Plugin URI: https://www.userlike.com
-Description: Userlike Live Chat integration for Wordpress
-Version: 2.6
+Plugin Name: Lime Connect
+Plugin URI: https://connect.lime-technologies.com/
+Description: Lime Connect (formerly Userlike) integration for Wordpress
+Version: 2.7
 Author: David Voswinkel <david.voswinkel@userlike.com>
-Author URI: https://www.userlike.com
+Author URI: https://connect.lime-technologies.com/
 License: GPL2
 
 This program is free software; you can redistribute it and/or modify
@@ -56,7 +56,7 @@ class UserLike {
 
 	public static function admin_notice(){
 		if(!self::$is_enabled)
-			echo '<div class="error"><p><strong>'.sprintf(__('Userlike integration has not been set up. Please go to the <a href="%s">plugin page</a> and enter your Userlike credentials to enable it.' ), admin_url('options-general.php?page=userlike')).'</strong></p></div>';
+			echo '<div class="error"><p><strong>'.sprintf(__('Lime Connect (formerly Userlike) integration has not been set up. Please go to the <a href="%s">plugin page</a> and enter your credentials to enable it.' ), admin_url('options-general.php?page=userlike')).'</strong></p></div>';
 	}
 
 	public static function add_settings_page(){
@@ -82,7 +82,7 @@ class UserLike {
 
 	public static function settings_page(){
 		if(get_option("userlike_secret") && !self::$is_enabled){
-			echo '<div id="setting-error-settings_error" class="error settings-error"><p><strong>Your credentials don\'t look like they are correct. Please make sure that your credentials are correct! <a href="#" onClick="return userlikeStartChat();">Click here for live help</a></strong></p></div>';
+			echo '<div id="setting-error-settings_error" class="error settings-error"><p><strong>Your credentials don\'t look like they are correct. Please make sure that your credentials are correct! <a href="#" onClick="return userlike.userlikeStartChat();">Click here for live help</a></strong></p></div>';
 		}
 		$plugin_dir = self::$plugin_dir;
 		$in_userlike = true;
