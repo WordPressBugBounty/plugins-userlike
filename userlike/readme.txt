@@ -3,7 +3,7 @@ Contributors: zakx, userlike
 Tags: live chat, messaging, ai support, ai chatbots, ai agents
 Requires at least: 3.3
 Tested up to: 6.9.4
-Stable tag: 2.7
+Stable tag: 2.8
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -11,24 +11,24 @@ Free live chat plugin to chat with the visitors of your website. Integrate a bea
 
 == Description ==
 
-[Lime Connect (formerly Userlike)](https://connect.lime-technologies.com/en/) is the leading all-in-one software for AI-based support automation, WhatsApp marketing and customer messaging in Germany. It offers a live chat plugin for WordPress that allows you to connect with your customers directly via website chat and their favorite messaging apps such as WhatsApp, Facebook, Instagram, Telegram, Email, Threema and SMS.
+[Lime Connect (formerly Userlike)](https://connect.lime-technologies.com/en/) is Germany's leading AI agent platform for customer communication, combining autonomous AI agents, a centralized message center, and integrated WhatsApp marketing in one solution. It offers a live chat plugin for WordPress that enables businesses to connect with customers through website chat and their preferred communication channels, including WhatsApp, Facebook, Instagram, Telegram, Email, Threema, and SMS.
 
-The plugin is free, easy to implement and lets you chat with your website visitors within minutes.
+The plugin is free, easy to implement, and allows you to start engaging with website visitors within minutes.
 
-= AI-based customer messaging =
-Lime Connect is a all-in-one messaging platform that helps companies reach their customers throughout the entire customer journey. Lime Connect combines all relevant channels, including website chat, WhatsApp, Instagram, Facebook, Telegram, email, Threema, and SMS, into a single solution. This ensures that conversations remain seamless and context-based and can be continued at any time.
+= AI-powered customer communication =
+Lime Connect helps companies manage customer communication across the entire customer journey. All customer conversations from website chat, WhatsApp, Instagram, Facebook, Telegram, Email, Threema, and SMS are brought together in a centralized message center, ensuring seamless, context-rich interactions across every channel.
 
-Our holistic AI platform for autonomous customer service management, Connect AI, is at the heart of Lime Connect.
+At the core of the platform is Connect AI, Lime Connect's AI suite for autonomous customer communication.
 
-Connect AI combines AI agents that operate autonomously, an intelligent co-pilot for service teams, and powerful agent actions. These features automate customer service, reduce costs, and drastically shorten response times.
-
-AI agents understand complex customer issues, make independent decisions, and execute actions in connected systems, such as CRMs and shop systems, from order inquiries to complaint processes. Up to 70% of all inquiries can be processed completely automatically.
+Connect AI combines autonomous AI agents, an intelligent AI copilot for service teams, and powerful agentic actions. AI agents can independently resolve recurring inquiries and execute complete service workflows, while human agents can step in and take over conversations at any time when personal expertise or individual support is needed.
 
 At the same time, the co-pilot helps employees work faster and more efficiently by summarizing contexts, suggesting answers, and providing relevant information.
 
 To automate processes, you can use our visual no-code Workflow Builder, that lets you design structured end-to-end processes by defining triggers, conditions, and actions via drag and drop. From routing and escalations to cross-system updates and proactive notifications, Workflows ensure that every step runs reliably and transparently in the background.
 
 You can also connect external chatbot providers to Lime Connect via the chatbot API.
+
+In addition to customer service, Lime Connect includes integrated WhatsApp marketing capabilities. Businesses can send targeted newsletters, personalized offers, and important updates directly through WhatsApp, enabling them to increase customer engagement, strengthen loyalty, and drive conversions through one of the world's most popular messaging channels.
 
 = Why Lime Connect? =
 
@@ -124,6 +124,9 @@ Create one for free [here](https://connect.lime-technologies.com/).
 12. Mobile app: stay connected on the go
 
 == Changelog ==
+
+= 2.8 =
+* Update description to reflect Lime Connect position as AI agent platform for customer communication
 
 = 2.7 =
 * Fix remainders from Userlike -> Lime Connect rebranding inside the plugin

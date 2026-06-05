@@ -3,7 +3,7 @@
 Plugin Name: Lime Connect
 Plugin URI: https://connect.lime-technologies.com/
 Description: Lime Connect (formerly Userlike) integration for Wordpress
-Version: 2.7
+Version: 2.8
 Author: David Voswinkel <david.voswinkel@userlike.com>
 Author URI: https://connect.lime-technologies.com/
 License: GPL2
